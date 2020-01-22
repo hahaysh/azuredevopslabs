@@ -65,6 +65,7 @@ The following azure resources need to be configured for this lab:
 
       ```bash
      version=$(az aks get-versions -l <region> --query 'orchestrators[-1].orchestratorVersion' -o tsv)
+     version=$(az aks get-versions -l eastus2 --query 'orchestrators[-1].orchestratorVersion' -o tsv)
       ```
    
    ii. Create a Resource Group
