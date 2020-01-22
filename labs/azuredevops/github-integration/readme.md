@@ -43,7 +43,7 @@ In this lab, you'll see how easy it is to set up Azure Pipelines with your GitHu
 <a name="Ex1Task1"></a>
 ### Task 1: Forking a GitHub repo and installing Azure Pipelines ###
 
-1. Navigate to [https://github.com/calculator-demo/calculator](https://github.com/calculator-demo/calculator). This is the baseline project we will fork and use for this lab.
+1. Navigate to [https://github.com/hahaysh/calculator](https://github.com/hahaysh/calculator). This is the baseline project we will fork and use for this lab.
 
 1. If you're not already signed in to GitHub, sign in now.
 
